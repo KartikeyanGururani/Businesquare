@@ -77,14 +77,14 @@ height:auto; min-height: 600px;
   background-color: Cobalt;
     background-image: url(../img/ba.jpg);
    	background-position:100% 100%;
- 	backgroung-size:content;
+ 	backgroung-size:cover;
  	background-repeat: no-repeat;
  	background-attachment: fixed;
 
  }
  #bats{
  	width: 200px;
-	 background-color:red;
+	 
  
  }
 
