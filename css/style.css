@@ -73,7 +73,7 @@ height:auto; min-height: 600px;
 
 @media only screen and (max-width: 767px) {
   body {
-  
+  background-color: sandybrown;
     background-image: url(../img/mob2.png);
    	background-position:100% 100%;
  	background-size: cover;
