@@ -1,0 +1,72 @@
+*{
+    padding:0px;
+    margin:0px;
+    border:0px;}
+
+@font-face{
+		font-family: abc;
+		src: url('../SedgwickAveDisplay-Regular.ttf');
+}
+    
+#main1{
+	background-image: url('../img/back11.png');
+	background-position: 100% 100%;
+ 	background-size: cover;
+ 	background-repeat: no-repeat;
+ 	background-attachment: fixed;
+clip-path: polygon(0% 0%,100% 0%,100% 90%,50% 100%,0% 90%);
+height:auto; min-height: 600px;
+ display: inline;
+ }
+ body{
+ 	background-image:linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)), url('../img/1.jpg');
+ 	background-position: 100% 100%;
+ 	background-size: cover;
+ 	background-repeat: no-repeat;
+ 	background-attachment: fixed;
+
+ }
+
+	
+#a1{opacity: 0.5;}
+#a2{opacity: 0.7;}
+
+
+	#im1{height: auto; max-height: 500px;}
+/* .card img{height: auto;max-height: 300px;} */
+#bats{height: 120px; position:relative;width:100%;}
+#batr {position: absolute;
+	-webkit-animation: run 6s linear infinite;
+    -moz-animation: run 6s linear infinite;
+    animation: run 6s linear infinite;
+	
+}
+@keyframes run{
+	from{
+		left: 0;
+
+	}
+
+	to{left: 75%;}
+}
+@-webkit-keyframes run{
+	from{
+		left: 0;
+
+	}
+
+	to{left: 75%;}
+}
+@-moz-keyframes run{
+	from{
+		left: 0;
+
+	}
+
+
+	to{left: 75%;}
+}
+#a4{opacity: 0.6;
+	}
+
+#h11{font-family: abc;}
