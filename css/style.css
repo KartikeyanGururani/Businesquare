@@ -24,6 +24,7 @@ height:auto; min-height: 600px;
  	background-size: cover;
  	background-repeat: no-repeat;
  	background-attachment: fixed;
+	 height:auto;
 
  }
 
@@ -72,7 +73,7 @@ height:auto; min-height: 600px;
 #h11{font-family: abc;}
 
 @media only screen and (max-width: 767px) {
-  body {
+  /*body {
   background-color: sandybrown;
     background-image: url(../img/new.jpg);
    	background-position:100% 100%;
@@ -80,7 +81,7 @@ height:auto; min-height: 600px;
  	background-repeat: no-repeat;
  	background-attachment: fixed;
 
- }
+ }*/
  #bats{
  	width: 200px;
 	 background-color:red;
