@@ -76,7 +76,7 @@ height:auto; min-height: 600px;
   background-color: sandybrown;
     background-image: url(../img/new.jpg);
    	background-position:100% 100%;
- 
+ 	backgroung-size:content;
  	background-repeat: no-repeat;
  	background-attachment: fixed;
 
