@@ -73,10 +73,18 @@ height:auto; min-height: 600px;
 
 @media only screen and (max-width: 767px) {
   body {
-    background-image:linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)), url(../img/mob.jpg);
-	  background-position: center center;
+  
+    background-image: url(../img/1.jpeg);
+    background-position: 100% 100%;
  	background-size: cover;
  	background-repeat: no-repeat;
  	background-attachment: fixed;
+
+ }
+ #bats{
+ 	width: 200px;
+ 
+ }
+
   }
-}
+
