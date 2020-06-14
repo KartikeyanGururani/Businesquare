@@ -76,7 +76,7 @@ height:auto; min-height: 600px;
   
     background-image: url(../img/1.jpeg);
     background-position: 100% 100%;
- 	background-size: cover;
+ 	background-size: center center;
  	background-repeat: no-repeat;
  	background-attachment: fixed;
 
