@@ -34,7 +34,7 @@ height:auto; min-height: 600px;
 
 	#im1{height: auto; max-height: 500px;}
 /* .card img{height: auto;max-height: 300px;} */
-#bats{height: 120px; position:relative;width:100%;}
+/* #bats{height: 120px; position:relative;width:100%;}
 #batr {position: absolute;
 	-webkit-animation: run 6s linear infinite;
     -moz-animation: run 6s linear infinite;
@@ -65,7 +65,7 @@ height:auto; min-height: 600px;
 
 
 	to{left: 75%;}
-}
+}*/
 #a4{opacity: 0.6;
 	}
 
